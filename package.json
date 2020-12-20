@@ -1,0 +1,22 @@
+{
+  "name": "speechtotextjs",
+  "version": "1.0.0",
+  "description": "Tool to transform voice into text on browser, using javascript.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangelAl/speechToTextJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RangelAl/speechToTextJs/issues"
+  },
+  "homepage": "https://github.com/RangelAl/speechToTextJs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
